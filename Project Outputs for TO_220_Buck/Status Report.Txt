@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TO_220_Buck.PrjPcb]
+   Generated File[TO_220_Buck.TXT]
+   Generated File[TO_220_Buck.LDP]
+   Generated File[TO_220_Buck.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:58:25 PM On 2021-01-27
