@@ -20,7 +20,7 @@ They are both configured for 3.3V, but replacing R3 allows the output voltage to
 
 Please take note of the pinouts as seen in the renders. 
 
-NOTE: These boards are currently untested and operation is not guaranteed.
+I've been able to test basic functionality of both boards, but I am currently working on extended testing.
 
 # [LM1117 Version](https://github.com/ketszim97/TO_220_Buck/tree/LM1117)
 ![Fusion Render 1](https://github.com/ketszim97/TO_220_Buck/blob/main/Renders/R1.png)
